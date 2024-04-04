@@ -25,5 +25,5 @@ $ python GUI.py
 Once finished, details on the image will be reported in the terminal. Supplemental images generated during copy-move forgery detection can be found in the output directory.
 
 ##  IMAGES
-<img src="Screenshot/1.jpg">
-<img src="Screenshot/2.jpg">
+<img src="Screenshot/1.png">
+<img src="Screenshot/2.png">
