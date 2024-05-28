@@ -26,4 +26,10 @@ Once finished, details on the image will be reported in the terminal. Supplement
 
 ##  IMAGES
 <img src="Screenshot/1.png">
+User Interface
 <img src="Screenshot/2.png">
+Copy Move Forgery
+<img src="Screenshot/3.png">
+Image Extraction
+<img src="Screenshot/4.png">
+CFA Artifacts
